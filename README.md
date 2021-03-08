@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**bearlim/bearlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yuri, i'm from Brazil. I'm fullstack student. 
+My best code languages:
+- Python 🐍
+- C 💻
 
-Here are some ideas to get you started:
+Code languages that i'm learning:
+- PHP 🐘
+- HTML 🔰
+- JavaScript 🔱
+- CSS ⚜️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always looking to solve problems and learning more. Everytime open to new challenges and new adventures
+##### "Uma vida não questionada não merece ser vivida." 🌌
+##### Platão
