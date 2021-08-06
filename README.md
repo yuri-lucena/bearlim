@@ -1,4 +1,4 @@
-# Hi, I'm Yuri! :wave:
+# Olá! Eu sou Yuri! :wave:
 - 📖 Estudando Desenvolvimento Web! 
 - 🔨 Resolver problemas é comigo mesmo! 
 
