@@ -1,6 +1,6 @@
 # Olá! Eu sou Yuri! :wave:
-- 📖 Estudando Desenvolvimento Web! 
-- 🔨 Resolver problemas é comigo mesmo! 
+- 📖 Estudando DJango
+- Próximo passo é ir mais além! 
 
  <div>
   <a href="https://github.com/bearlim">
