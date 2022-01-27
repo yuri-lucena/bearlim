@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
- <img align="center" alt="jQuery" title="jQiery" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+ <img align="center" alt="jQuery" title="jQuery" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
  <img align="center" alt="Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" title="Django" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
