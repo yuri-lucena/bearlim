@@ -1,6 +1,6 @@
 # Olá! Eu sou Yuri! :wave:
-- 📖 Estudando DJango
-- 🔨 Hoje trabalhando como desenvolvedor fullstack
+- 📖 Estudando DJango e React
+- 🔨 Trabalhando como desenvolvedor fullstack
 - Próximo passo é ir mais além! 
 
  <div>
@@ -9,16 +9,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearlim&layout=compact&theme=radical">
 </div>
 <div style="display: inline_block"><br>
+ <h4>Programming Languages</h4>
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
- <img align="center" alt="jQuery" title="jQuery" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
- <img align="center" alt="Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" title="Django" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="CSharp" title="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Asp.net" title="ASP.Net" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg"> 
+
+ <h4>Frameworks</h4>
+ 
+  <img align="center" alt="jQuery" title="jQuery" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="Django" title="Django" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+  <h4>Databases</h4>
+ 
   <img align="center" alt="MySql" title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MySql" title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 <br> 
 <div> 
