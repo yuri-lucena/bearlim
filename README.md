@@ -17,7 +17,7 @@
   <img align="center" alt="CSharp" title="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Asp.net" title="ASP.Net" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg"> 
 
- <h4>Frameworks</h4>
+ <h4>Frameworks/Libs</h4>
  
   <img align="center" alt="jQuery" title="jQuery" style="margin-left: 50px !important" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Django" title="Django" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
