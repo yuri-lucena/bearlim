@@ -1,5 +1,5 @@
 # Olá! Eu sou Yuri! :wave:
-- 📖 Estudando DJango e React
+- 📖 Estudando .NET e React Native
 - 🔨 Trabalhando como desenvolvedor fullstack
 - Próximo passo é ir mais além! 
 
