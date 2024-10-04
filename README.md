@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/bearlim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bearlim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearlim&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuri-lucena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-lucena&layout=compact&theme=radical">
 </div>
 <div style="display: inline_block"><br>
  <h4>Programming Languages</h4>
